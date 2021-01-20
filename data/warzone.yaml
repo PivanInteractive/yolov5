@@ -1,0 +1,6 @@
+train: ../../../data/current_yolo_data/images/train
+val: ../../../data/current_yolo_data/images/test
+
+nc: 9
+
+names: ["map", "kills", "teams", "enemies", "inclip", "rounds", "cash", "armor", "airplane"]
